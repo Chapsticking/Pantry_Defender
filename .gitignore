@@ -1,0 +1,8 @@
+getTrainingData.py
+*.mp4
+yolov8m.pt
+/.git
+/.venv
+/Dataset
+/__pycache__
+/runs
